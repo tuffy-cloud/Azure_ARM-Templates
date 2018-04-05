@@ -1,4 +1,6 @@
 Azure ARM Template which will deploy an Azure Virtual Network + 2 Subnets
+
+
 Author: Kevin Tuffner
 
 
